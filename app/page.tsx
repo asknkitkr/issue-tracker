@@ -1,5 +1,5 @@
 import Image from "next/image";
 
 export default function Home() {
-  return <div>Hello malik</div>;
+  return <div>I am Ankit Kumar</div>;
 }
